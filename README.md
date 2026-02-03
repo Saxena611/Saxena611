@@ -6,7 +6,9 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&random=false&width=600&height=80&lines=Building+High-Scale+Distributed+Systems+%F0%9F%9A%80;7%2B+Years+of+Engineering+Excellence+%E2%9C%A8;Cloud-Native+%7C+Data+Platforms+%7C+GenAI+%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&height=45&lines=Building+High-Scale+Distributed+Systems+%F0%9F%9A%80;7%2B+Years+of+Engineering+Excellence+%E2%9C%A8;Cloud-Native+%7C+Data+Platforms+%7C+GenAI+%F0%9F%A4%96)](https://git.io/typing-svg)
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/animesh-saxena)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saxena611)
@@ -177,14 +179,16 @@ superpower: >
 
 <div align="center">
   
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=saxena611&show_icons=true&count_private=true&hide_border=true&title_color=6AD3F7&icon_color=6AD3F7&text_color=c9d1d9&bg_color=0d1117" alt="Animesh Saxena GitHub Stats" /> 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saxena611&layout=compact&hide_border=true&title_color=6AD3F7&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages"/>
+<a href="https://github.com/saxena611">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saxena611&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saxena611&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</a>
 
 </div>
 
 <div align="center">
   
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=saxena611&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7)
+[![GitHub Streak](https://streak-stats.demolab.com?user=saxena611&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 
@@ -194,17 +198,7 @@ superpower: >
 
 <div align="center">
   
-[![Animesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saxena611&bg_color=0d1117&color=6AD3F7&line=6AD3F7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://github.com/saxena611/saxena611/blob/output/github-snake-dark.svg)
+![Animesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saxena611&theme=tokyo-night&hide_border=true&bg_color=0d1117)
 
 </div>
 
